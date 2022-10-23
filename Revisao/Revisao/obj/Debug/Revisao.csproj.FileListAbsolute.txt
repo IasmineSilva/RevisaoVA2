@@ -1,0 +1,8 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\RevisaoVA2\Revisao\Revisao\bin\Debug\Revisao.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\RevisaoVA2\Revisao\Revisao\bin\Debug\Revisao.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\RevisaoVA2\Revisao\Revisao\bin\Debug\Revisao.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\RevisaoVA2\Revisao\Revisao\obj\Debug\Revisao.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\RevisaoVA2\Revisao\Revisao\obj\Debug\Revisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\RevisaoVA2\Revisao\Revisao\obj\Debug\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\RevisaoVA2\Revisao\Revisao\obj\Debug\Revisao.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\RevisaoVA2\Revisao\Revisao\obj\Debug\Revisao.pdb
